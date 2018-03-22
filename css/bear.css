@@ -9,7 +9,7 @@ html {
 }
 
 /* Write your solution here */
-@media only screen (min-width: 1196px) {
+@media only screen (min-width: 900px) {
   #bear{
     position:fixed;
     right: 800px;
